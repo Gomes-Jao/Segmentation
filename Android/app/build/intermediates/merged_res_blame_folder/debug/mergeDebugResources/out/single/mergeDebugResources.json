@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.andre.tflite.classification.app-debug-54:/xml_backup_rules.xml.flat",
+        "source": "com.andre.tflite.classification.app-main-56:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.andre.tflite.classification.app-debug-54:/xml_data_extraction_rules.xml.flat",
+        "source": "com.andre.tflite.classification.app-main-56:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.andre.tflite.classification.app-debug-54:/layout_activity_main.xml.flat",
+        "source": "com.andre.tflite.classification.app-main-56:/layout/activity_main.xml"
+    }
+]

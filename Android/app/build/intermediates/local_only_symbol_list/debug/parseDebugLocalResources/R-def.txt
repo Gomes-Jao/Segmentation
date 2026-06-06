@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_500
+color white
+id btnPickImage
+id imageView
+id statusText
+id titleText
+layout activity_main
+string app_name
+string app_title
+string done
+string error
+string image_preview
+string model_missing
+string pick_image
+string ready
+string running
+style Theme.TfliteClassification
+xml backup_rules
+xml data_extraction_rules
