@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_500">#6750A4</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Pet Segmentation</string>
+    <string name="app_title">Segmentação semântica (Oxford Pet)</string>
+    <string name="done">Segmentação concluída (máscara sobreposta).</string>
+    <string name="error">Erro na inferência.</string>
+    <string name="image_preview">Pré-visualização da imagem</string>
+    <string name="model_missing">Coloque model.tflite em assets/ (execute Segmentacao.ipynb no Colab).</string>
+    <string name="pick_image">Escolher imagem</string>
+    <string name="ready">Modelo carregado. Escolha uma foto de pet.</string>
+    <string name="running">Executando segmentação…</string>
+    <style name="Theme.TfliteClassification" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_500</item>
+    </style>
+</resources>
